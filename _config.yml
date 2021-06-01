@@ -1,0 +1,8 @@
+makecode:
+  target: bBoard
+  platform: bBoard
+  home_url: https://makecode.microbit.org/
+theme: jekyll-theme-slate
+include:
+  - assets
+  - README.md
